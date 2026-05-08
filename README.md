@@ -19,6 +19,3 @@ This project detects whether a news article is real or fake using Machine Learni
 
 2. Run app:
    python3 app.py
-
-3. Open browser:
-   http://127.0.0.1:5000
